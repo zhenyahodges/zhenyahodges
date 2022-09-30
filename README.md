@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning JS Back-End :computer:
-- 📫 How to reach me: :email:  zhenyahodges@gmail.com
-:_
+- 📫 How to reach me: zhenyahodges@gmail.com
