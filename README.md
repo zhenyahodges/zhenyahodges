@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning JS Back-End
-- 📫 How to reach me: zhenyahodges@gmail.com
+- 🌱 I’m currently learning JS Back-End :computer:
+- 📫 How to reach me: :email:  zhenyahodges@gmail.com
+:_
