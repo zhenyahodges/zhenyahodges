@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning JS Back-End :computer:
+- 🌱 I’m currently learning Front-End :computer:
 - 📫 How to reach me: zhenyahodges@gmail.com
