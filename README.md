@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ReactJS :computer:
+- 🌱:mountain_snow: I’m currently learning ReactJS :computer:
+- :keyboard: I’m currently working on my first React project.
+- 😄 Pronouns: she/her
 - 📫 How to reach me: zhenyahodges@gmail.com
