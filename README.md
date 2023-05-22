@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱:mountain_snow: I’m currently learning JS Back-End :computer:
-- :keyboard: I’m currently working on my first React project.
+<!-- - :keyboard: I’m currently working on my first React project. -->
 - 😄 Pronouns: she/her
 - 📫 How to reach me: zhenyahodges@gmail.com
