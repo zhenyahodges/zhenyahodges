@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻:mountain_snow: I’m currently learning Angular, improving my first [React project](https://github.com/zhenyahodges/SuggestIt), thinking of new projects, and building on the knowledge I have [already acquired](https://github.com/zhenyahodges/SoftUni-Courses).
+- 💻:mountain_snow: I’m currently learning Angular, improving my [first React project](https://github.com/zhenyahodges/SuggestIt), thinking of new projects, and building on the knowledge I have [already acquired](https://github.com/zhenyahodges/SoftUni-Courses).
 <!-- - :keyboard: I’m currently working on my first React project. -->
 - 😄 Pronouns: she/her
 - 📫 How to reach me: zhenyahodges@gmail.com
