@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻🏔️ I’m currently learning Angular and TypeScript, thinking of new projects, and building on the knowledge I have [already acquired](https://github.com/zhenyahodges/SoftUni-Courses).
+- 💻🏔️ I’m currently learning Angular and TypeScript, also some Python, thinking of new projects, and building on the knowledge I have [already acquired](https://github.com/zhenyahodges/SoftUni-Courses).
 <!-- - :keyboard: I’m currently working on my first React project. -->
 - 📫 How to reach me: zhenyahodges@gmail.com
 #
