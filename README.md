@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻🏔️ I’m currently learning Angular and TypeScript, also some Python, thinking of new projects, and building on the knowledge I have [already acquired](https://github.com/zhenyahodges/SoftUni-Courses).
-- 🔭 My [latest project](https://github.com/zhenyahodges/SuggestIt) built with React:
+- 🔭 My [latest project](https://github.com/zhenyahodges/SuggestIt), built with React:
   
   <a href="https://github.com/zhenyahodges/SuggestIt">
   <img style="width:200px;height:auto"  alt="SuggestIt React Project" src="https://github.com/zhenyahodges/SuggestIt/blob/main/readme-res/SuggestIt%20(Small).png">
