@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyahodges&layout=compact&hide_progress=false&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyahodges&layout=compact&hide_progress=false&theme=vision-friendly-dark)
