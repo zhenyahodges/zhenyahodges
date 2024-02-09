@@ -18,7 +18,9 @@ Here are some ideas to get you started:
      + Front-end: [React.js](https://github.com/zhenyahodges/SoftUni-Courses/tree/main/Front_End/REACT/REACT-PRACTICE) ; [HTML5 & CSS3](https://github.com/zhenyahodges/SoftUni-Courses/tree/main/Front_End/HTML_CSS)
      + [Back-end](https://github.com/zhenyahodges/SoftUni-Courses/tree/main/JS_BackEnd)
       
-- 🔭 My [latest project](https://github.com/zhenyahodges/SuggestIt), built with React.js:
+- 🔭 My [latest project](https://github.com/zhenyahodges/SuggestIt), built with ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
   <a href="https://github.com/zhenyahodges/SuggestIt">
   <img style="width:200px;height:auto"  alt="SuggestIt React Project" src="https://github.com/zhenyahodges/SuggestIt/blob/main/readme-res/SuggestIt%20(Small).png">
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zhenyahodges@gmail.com
 #
 
- 
+ #### Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
