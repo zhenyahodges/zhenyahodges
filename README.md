@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 💻🏔️ I’m currently learning Angular.js and TypeScript, and also some PHP, thinking of new projects, and building on the knowledge I have already acquired:
   
-     + Front-end: [React.js](https://github.com/zhenyahodges/SoftUni-Courses/tree/main/Front_End/REACT/REACT-PRACTICE) ; [HTML5 & CSS3](https://github.com/zhenyahodges/SoftUni-Courses/tree/main/Front_End/HTML_CSS)
+     + [Front-end](https://github.com/zhenyahodges/SoftUni-Courses/tree/main/Front_End): [React.js](https://github.com/zhenyahodges/SoftUni-Courses/tree/main/Front_End/REACT/REACT-PRACTICE) and [HTML5 & CSS3](https://github.com/zhenyahodges/SoftUni-Courses/tree/main/Front_End/HTML_CSS)
      + [Back-end](https://github.com/zhenyahodges/SoftUni-Courses/tree/main/JS_BackEnd)
       
 - 🔭 My [latest project](https://github.com/zhenyahodges/SuggestIt), built with ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
