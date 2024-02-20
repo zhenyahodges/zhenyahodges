@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻🏔️ I’m currently learning Angular.js and TypeScript, and also some Python, thinking of new projects, and building on the knowledge I have already acquired:
+- 💻🏔️ I’m currently learning Angular.js and TypeScript, and also some PHP, thinking of new projects, and building on the knowledge I have already acquired:
   
      + Front-end: [React.js](https://github.com/zhenyahodges/SoftUni-Courses/tree/main/Front_End/REACT/REACT-PRACTICE) ; [HTML5 & CSS3](https://github.com/zhenyahodges/SoftUni-Courses/tree/main/Front_End/HTML_CSS)
      + [Back-end](https://github.com/zhenyahodges/SoftUni-Courses/tree/main/JS_BackEnd)
